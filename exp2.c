@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main() {
+int main(){
  float physics, chemistry, maths;
  float total, average;
  printf("===========================================\n");
