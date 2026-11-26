@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
-int main ()
+int main()
 {
  char name[] = "Vinay Rajbhar";
  int age = 18;
